@@ -1,1 +1,19 @@
 
+Category,Component,Specification / Description,Quantity,Unit Cost (USD),Total Cost (USD)
+Mechanical,Waterproof 3D Printing,Waterproof submarine body,1,125.00,125.00
+PCB Fabrication,Custom Motherboard,PCB with Pico headers and sensor interfaces,1,58.00,58.00
+Electronics,Servo Motor,Servo rotation control,6,1.20,7.20
+Electronics,Drive Motor,Propulsion motor,2,2.00,4.00
+Electronics,Raspberry Pi Zero 2 W,Main camera processing and onboard analysis,1,32.65,32.65
+Electronics,Raspberry Pi Pico,Central sensor data interface,1,3.00,3.00
+Electronics,Raspberry Pi Camera,Camera module,1,9.71,9.71
+Electronics,Thermal Camera,Thermal imaging module,1,23.02,23.02
+Electronics,Gyro Sensor,4-axis sensor module,1,8.91,8.91
+Electronics,Lithium-ion Battery,Rechargeable battery,1,25.00,25.00
+Electronics,Extension Cable,30 m cable,1,39.51,39.51
+Electronics,Memory Card,32 GB microSD card,1,17.14,17.14
+Electronics,Light Infrared Color Spectrometer,Light wavelength measurement module,1,8.01,8.01
+Miscellaneous,Passive Components and Hardware,Resistors capacitors connectors and other components,1,15.00,15.00
+Shipping,Shipping Charges,Estimated shipping cost,1,50.00,50.00
+TOTAL,Complete BOM,All listed components and costs,,,426.15
+
