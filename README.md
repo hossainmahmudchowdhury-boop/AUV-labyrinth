@@ -25,16 +25,16 @@ The following table lists the estimated components and costs for the underwater 
 
 | Component | Specification / Purpose | Qty. | Unit Cost (USD) | Total (USD) | Link |
 |---|---|---:|---:|---:|---:|
-| Servo Motor | Servo rotation control | 6 | $7.40 | $44.40 |https://shorturl.at/46V4L|
-| Drive Motor | Propulsion | 1 | $46.00 | $46.00 | https://www.aliexpress.com/item/1005006684228018.html|
-|  CanMV K230 mini AI development board  | Image processing and onboard computing | 1 | $32.65 | $32.65 |https://www.aliexpress.com/item/1005008934429939.html|
-| Arduino Nano V3.0 Type C  | Sensor interfacing and data acquisition | 1 | $3.00 | $3.00 |https://www.aliexpress.com/item/1005011889513227.html|
-|  8x8 Thermal Imager Module | Thermal imaging for research | 1 | $32.08  | $32.08  | https://www.aliexpress.com/item/1005009168490634.html|
-| Gyro Sensor | 3-axis motion and orientation sensing | 1 | $9.51 | $9.51 |https://www.aliexpress.com/item/1005008666420561.html
-| Lithium-ion Battery | Rechargeable power supply | 1 | $70 | $70 |https://www.aliexpress.com/item/1005012063525821.html|
-| Extension Cable | 20 m communication/data cable | 1 | $78.70 | $78.70 | https://www.aliexpress.com/item/1005012780715462.htm|
-| Memory Card | 32 GB microSD card | 1 | $10.43  | $10.43  |https://www.aliexpress.com/item/1005007498167692.html|
-| Light/Infrared Color Spectrometer | Light measurement and spectral analysis | 1 | $8.01 | $8.01 |https://www.aliexpress.com/item/1005013219123992.htm|
+| Servo Motor | Servo rotation control | 6 | $7.40 | $44.40 | [Link](https://shorturl.at/46V4L) |
+| Drive Motor | Propulsion | 1 | $46.00 | $46.00 | [Link](https://www.aliexpress.com/item/1005006684228018.html|
+|  CanMV K230 mini AI development board  | Image processing and onboard computing | 1 | $43.37  | $43.37  | [Link](https://www.aliexpress.com/item/1005008934429939.html|
+| Arduino Nano V3.0 Type C  | Sensor interfacing and data acquisition | 1 | $3.00 | $3.00 | [Link](https://www.aliexpress.com/item/1005011889513227.html)|
+|  8x8 Thermal Imager Module | Thermal imaging for research | 1 | $32.08  | $32.08  | [Link](https://www.aliexpress.com/item/1005009168490634.html)|
+| Gyro Sensor | 3-axis motion and orientation sensing | 1 | $9.51 | $9.51 | [Link](https://www.aliexpress.com/item/1005008666420561.html)|
+| Lithium-ion Battery | Rechargeable power supply | 1 | $70 | $70 | [Link](https://www.aliexpress.com/item/1005012063525821.html)|
+| Extension Cable | 20 m communication/data cable | 1 | $78.70 | $78.70 | [Link](https://www.aliexpress.com/item/1005012780715462.html)|
+| Memory Card | 32 GB microSD card | 1 | $10.43  | $10.43  | [Link](https://www.aliexpress.com/item/1005007498167692.html)|
+| Light/Infrared Color Spectrometer | Light measurement and spectral analysis | 1 | $8.01 | $8.01 | [Link](https://www.aliexpress.com/item/1005013219123992.html)|
 | **Subtotal** | | | | **$178.15** |
 
 ### 3. Miscellaneous and Logistics
