@@ -18,15 +18,15 @@ The following table lists the estimated components and costs for the underwater 
 | Category | Component | Description | Estimated Cost (USD) |
 |---|---|---|---:|
 | Mechanical | Waterproof 3D Printing | Custom submarine body | $125.00 |
-| PCB Fabrication | Custom Motherboard | Main PCB with replaceable Raspberry Pi Pico headers, power regulation, and sensor interfaces | $58.00 |
+| PCB Fabrication | Custom Motherboard | Main PCB with replaceable Raspberry Arduino nano headers, power regulation, and sensor interfaces | $58.00 |
 | **Subtotal** | | | **$183.00** |
 
 ### 2. Electronics and Sensors
 
-| Component | Specification / Purpose | Qty. | Unit Cost (USD) | Total (USD) |
-|---|---|---:|---:|---:|
-| Servo Motor | Servo rotation control | 6 | $1.20 | $7.20 |
-| Drive Motor | Propulsion | 2 | $2.00 | $4.00 |
+| Component | Specification / Purpose | Qty. | Unit Cost (USD) | Total (USD) | Link |
+|---|---|---:|---:|---:|---:|
+| Servo Motor | Servo rotation control | 6 | $7.40 | $44.40 |https://shorturl.at/46V4L|
+| Drive Motor | Propulsion | 1 | $46.00 | $46.00 | https://www.aliexpress.com/item/1005006684228018.html|
 | Raspberry Pi Zero 2 W | Image processing and onboard computing | 1 | $32.65 | $32.65 |
 | Raspberry Pi Pico | Sensor interfacing and data acquisition | 1 | $3.00 | $3.00 |
 | Raspberry Pi Camera | Visual imaging | 1 | $9.71 | $9.71 |
