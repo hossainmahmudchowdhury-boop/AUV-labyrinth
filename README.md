@@ -26,8 +26,8 @@ The following table lists the estimated components and costs for the underwater 
 | Component | Specification / Purpose | Qty. | Unit Cost (USD) | Total (USD) | Link |
 |---|---|---:|---:|---:|---:|
 | Servo Motor | Servo rotation control | 6 | $7.40 | $44.40 | [Link](https://shorturl.at/46V4L) |
-| Drive Motor | Propulsion | 1 | $46.00 | $46.00 | [Link](https://www.aliexpress.com/item/1005006684228018.html|
-|  CanMV K230 mini AI development board  | Image processing and onboard computing | 1 | $43.37  | $43.37  | [Link](https://www.aliexpress.com/item/1005008934429939.html|
+| Drive Motor | Propulsion | 1 | $46.00 | $46.00 | [Link](https://www.aliexpress.com/item/1005006684228018.html)|
+|  CanMV K230 mini AI development board  | Image processing and onboard computing | 1 | $43.37  | $43.37  | [Link](https://www.aliexpress.com/item/1005008934429939.html)|
 | Arduino Nano V3.0 Type C  | Sensor interfacing and data acquisition | 1 | $3.00 | $3.00 | [Link](https://www.aliexpress.com/item/1005011889513227.html)|
 |  8x8 Thermal Imager Module | Thermal imaging for research | 1 | $32.08  | $32.08  | [Link](https://www.aliexpress.com/item/1005009168490634.html)|
 | Gyro Sensor | 3-axis motion and orientation sensing | 1 | $9.51 | $9.51 | [Link](https://www.aliexpress.com/item/1005008666420561.html)|
