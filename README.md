@@ -39,8 +39,7 @@ The following table lists the estimated components and costs for the underwater 
 | Extension Cable | 20 m communication/data cable | 1 | $78.70 | $78.70 | [Link](https://www.aliexpress.com/item/1005012780715462.html)|
 | Memory Card | 32 GB microSD card | 1 | $10.43  | $10.43  | [Link](https://www.aliexpress.com/item/1005007498167692.html)|
 | Light/Infrared Color Spectrometer | Light measurement and spectral analysis | 1 | $8.01 | $8.01 | [Link](https://www.aliexpress.com/item/1005013219123992.html)|
-| NEO-M8N GPS Module  |1 | $17.49 | $17.49 |  [Link](https://www.aliexpress.com/item/1005008748794240.html)|
-
+| NEO-M8N GPS Module  |NEO-M8N GPS Module with Built-in Compass for APM PIX Pixhawk PX4|1 | $17.49 | $17.49 |  [Link](https://www.aliexpress.com/item/1005008748794240.html)|
 | **Subtotal** | | | | **$345.50** |
 
 ### 3. Miscellaneous and Logistics
