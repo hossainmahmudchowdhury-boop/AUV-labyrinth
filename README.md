@@ -35,7 +35,7 @@ The following table lists the estimated components and costs for the underwater 
 | Extension Cable | 20 m communication/data cable | 1 | $78.70 | $78.70 | [Link](https://www.aliexpress.com/item/1005012780715462.html)|
 | Memory Card | 32 GB microSD card | 1 | $10.43  | $10.43  | [Link](https://www.aliexpress.com/item/1005007498167692.html)|
 | Light/Infrared Color Spectrometer | Light measurement and spectral analysis | 1 | $8.01 | $8.01 | [Link](https://www.aliexpress.com/item/1005013219123992.html)|
-| **Subtotal** | | | | **$178.15** |
+| **Subtotal** | | | | **$345.50** |
 
 ### 3. Miscellaneous and Logistics
 
@@ -50,15 +50,15 @@ The following table lists the estimated components and costs for the underwater 
 | Category | Estimated Cost (USD) |
 |---|---:|
 | Mechanical and PCB Fabrication | $183.00 |
-| Electronics and Sensors | $178.15 |
+| Electronics and Sensors | $345.50 |
 | Miscellaneous and Shipping | $65.00 |
-| **Total Estimated Cost** | **$426.15** |
+| **Total Estimated Cost** | **$593.50** |
 
 > **Note:** All prices are approximate and may vary depending on supplier, availability, shipping, and import duties. Additional waterproof connectors, cable glands, motor drivers, battery protection, and pressure-resistant sealing may increase the final cost if they are not already included.
 
 ### 5. Mainboard Design Overview
 
-The custom motherboard is designed around a removable Raspberry Pi Pico, connected through headers rather than permanently soldered to the PCB. The board is intended to provide:
+The custom motherboard is designed around a removable Arduino Nano, connected through headers rather than permanently soldered to the PCB. The board is intended to provide:
 
 - Sensor interfaces using I²C and SPI.
 - MicroSD storage interface for sensor readings and other data the Pico can manage.
@@ -66,8 +66,7 @@ The custom motherboard is designed around a removable Raspberry Pi Pico, connect
 - Gyroscope interface for motion and stability measurements.
 - Motor-driver and servo-control connections.
 - 5 V and 3.3 V power regulation.
-- Voltage and current monitoring.
 
-The Raspberry Pi Zero 2 W handles camera-related processing, while the Pico focuses on sensor acquisition and low-level control. Thermal imaging and spectral processing may require additional software, interfaces, or processing resources, depending on the selected modules.
 
-**Design consideration:** The Pico is not intended to replace the Raspberry Pi Zero 2 W as the main image-processing computer. The final PCB layout and power system should be verified against the electrical requirements of each connected module.
+
+**Design consideration:** 
