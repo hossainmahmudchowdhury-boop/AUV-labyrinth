@@ -35,10 +35,12 @@ The following table lists the estimated components and costs for the underwater 
 | Arduino Nano V3.0 Type C  | Sensor interfacing and data acquisition | 1 | $3.00 | $3.00 | [Link](https://www.aliexpress.com/item/1005011889513227.html)|
 |  8x8 Thermal Imager Module | Thermal imaging for research | 1 | $32.08  | $32.08  | [Link](https://www.aliexpress.com/item/1005009168490634.html)|
 | Gyro Sensor | 3-axis motion and orientation sensing | 1 | $9.51 | $9.51 | [Link](https://www.aliexpress.com/item/1005008666420561.html)|
-| Lithium-ion Battery | Rechargeable power supply | 1 | $70 | $70 | [Link](https://www.aliexpress.com/item/1005012063525821.html)|
+| Lithium-ion Battery | Rechargeable power supply | 1 | $22.10 | $22.10 | [Link](https://www.aliexpress.com/item/1005006920168445.html)|
 | Extension Cable | 20 m communication/data cable | 1 | $78.70 | $78.70 | [Link](https://www.aliexpress.com/item/1005012780715462.html)|
 | Memory Card | 32 GB microSD card | 1 | $10.43  | $10.43  | [Link](https://www.aliexpress.com/item/1005007498167692.html)|
 | Light/Infrared Color Spectrometer | Light measurement and spectral analysis | 1 | $8.01 | $8.01 | [Link](https://www.aliexpress.com/item/1005013219123992.html)|
+| NEO-M8N GPS Module  |1 | $17.49 | $17.49 |  [Link](https://www.aliexpress.com/item/1005008748794240.html)|
+
 | **Subtotal** | | | | **$345.50** |
 
 ### 3. Miscellaneous and Logistics
