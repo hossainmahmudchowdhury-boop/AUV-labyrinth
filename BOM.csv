@@ -4,17 +4,18 @@ Mechanical,Waterproof 3D Printing,Custom submarine body,1,125.00,125.00,
 PCB Fabrication,Custom Motherboard,Main PCB with replaceable Arduino Nano headers power regulation and sensor interfaces,1,58.00,58.00,
 Electronics,Servo Motor,Servo rotation control,6,7.40,44.40,https://shorturl.at/46V4L
 Electronics,Drive Motor,Propulsion,1,46.00,46.00,https://www.aliexpress.com/item/1005006684228018.html
-Electronics,CanMV K230 mini AI development board,Image processing and onboard computing,1,43.37,43.37,https://www.aliexpress.com/item/1005008934429939.html
+Electronics,CanMV K230 Mini AI Development Board,Image processing and onboard computing,1,43.37,43.37,https://www.aliexpress.com/item/1005008934429939.html
 Electronics,Arduino Nano V3.0 Type C,Sensor interfacing and data acquisition,1,3.00,3.00,https://www.aliexpress.com/item/1005011889513227.html
 Electronics,8x8 Thermal Imager Module,Thermal imaging for research,1,32.08,32.08,https://www.aliexpress.com/item/1005009168490634.html
 Electronics,Gyro Sensor,3-axis motion and orientation sensing,1,9.51,9.51,https://www.aliexpress.com/item/1005008666420561.html
-Electronics,Lithium-ion Battery,Rechargeable power supply,1,70.00,70.00,https://www.aliexpress.com/item/1005012063525821.html
+Electronics,Lithium-ion Battery Bundle,20-piece rechargeable battery bundle,1,22.10,22.10,https://www.aliexpress.com/item/1005006920168445.html
 Electronics,Extension Cable,20 m communication/data cable,1,78.70,78.70,https://www.aliexpress.com/item/1005012780715462.html
 Electronics,Memory Card,32 GB microSD card,1,10.43,10.43,https://www.aliexpress.com/item/1005007498167692.html
 Electronics,Light/Infrared Color Spectrometer,Light measurement and spectral analysis,1,8.01,8.01,https://www.aliexpress.com/item/1005013219123992.html
-Electronics Subtotal,,,,,345.50,
-Miscellaneous,Passive Components and Hardware,Resistors capacitors connectors and miscellaneous components,1,15.00,15.00,
-Logistics,Shipping,Estimated shipping charges,1,50.00,50.00,
+Electronics,NEO-M8N GPS Module,NEO-M8N GPS module with built-in compass,1,17.49,17.49,https://www.aliexpress.com/item/1005008748794240.html
+Electronics Subtotal,,,,,315.90,
 Mechanical and PCB Subtotal,,,,,183.00,
+Miscellaneous,Passive Components and Hardware,Resistors capacitors connectors and miscellaneous parts,1,15.00,15.00,
+Logistics,Shipping,Estimated shipping charges,1,50.00,50.00,
 Miscellaneous and Logistics Subtotal,,,,,65.00,
-TOTAL,Estimated Project Cost,Complete estimated project budget,,,593.50,
+TOTAL,Estimated Project Cost,Complete estimated project budget,,,563.90,
