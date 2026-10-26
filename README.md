@@ -40,7 +40,7 @@ The following table lists the estimated components and costs for the underwater 
 | Memory Card | 32 GB microSD card | 1 | $10.43  | $10.43  | [Link](https://www.aliexpress.com/item/1005007498167692.html)|
 | Light/Infrared Color Spectrometer | Light measurement and spectral analysis | 1 | $8.01 | $8.01 | [Link](https://www.aliexpress.com/item/1005013219123992.html)|
 | NEO-M8N GPS Module  |NEO-M8N GPS Module with Built-in Compass for APM PIX Pixhawk PX4|1 | $17.49 | $17.49 |  [Link](https://www.aliexpress.com/item/1005008748794240.html)|
-| **Subtotal** | | | | **$345.50** |
+| **Subtotal** | | | | **$315.90** |
 
 ### 3. Miscellaneous and Logistics
 
@@ -55,9 +55,9 @@ The following table lists the estimated components and costs for the underwater 
 | Category | Estimated Cost (USD) |
 |---|---:|
 | Mechanical and PCB Fabrication | $183.00 |
-| Electronics and Sensors | $345.50 |
+| Electronics and Sensors | $315.90 |
 | Miscellaneous and Shipping | $65.00 |
-| **Total Estimated Cost** | **$593.50** |
+| **Total Estimated Cost** | **$563.90** |
 
 > **Note:** All prices are approximate and may vary depending on supplier, availability, shipping, and import duties. Additional waterproof connectors, cable glands, motor drivers, battery protection, and pressure-resistant sealing may increase the final cost if they are not already included.
 
