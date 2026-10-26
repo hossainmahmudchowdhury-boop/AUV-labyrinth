@@ -27,15 +27,14 @@ The following table lists the estimated components and costs for the underwater 
 |---|---|---:|---:|---:|---:|
 | Servo Motor | Servo rotation control | 6 | $7.40 | $44.40 |https://shorturl.at/46V4L|
 | Drive Motor | Propulsion | 1 | $46.00 | $46.00 | https://www.aliexpress.com/item/1005006684228018.html|
-| Raspberry Pi Zero 2 W | Image processing and onboard computing | 1 | $32.65 | $32.65 |
-| Raspberry Pi Pico | Sensor interfacing and data acquisition | 1 | $3.00 | $3.00 |
-| Raspberry Pi Camera | Visual imaging | 1 | $9.71 | $9.71 |
-| Thermal Camera | Thermal imaging for research | 1 | $23.02 | $23.02 |
-| Gyro Sensor | 4-axis motion and orientation sensing | 1 | $8.91 | $8.91 |
-| Lithium-ion Battery | Rechargeable power supply | 1 | $25.00 | $25.00 |
-| Extension Cable | 30 m communication/data cable | 1 | $39.51 | $39.51 |
-| Memory Card | 32 GB microSD card | 1 | $17.14 | $17.14 |
-| Light/Infrared Color Spectrometer | Light measurement and spectral analysis | 1 | $8.01 | $8.01 |
+|  CanMV K230 mini AI development board  | Image processing and onboard computing | 1 | $32.65 | $32.65 |https://www.aliexpress.com/item/1005008934429939.html|
+| Arduino Nano V3.0 Type C  | Sensor interfacing and data acquisition | 1 | $3.00 | $3.00 |https://www.aliexpress.com/item/1005011889513227.html|
+|  8x8 Thermal Imager Module | Thermal imaging for research | 1 | $32.08  | $32.08  | https://www.aliexpress.com/item/1005009168490634.html|
+| Gyro Sensor | 3-axis motion and orientation sensing | 1 | $9.51 | $9.51 |https://www.aliexpress.com/item/1005008666420561.html
+| Lithium-ion Battery | Rechargeable power supply | 1 | $70 | $70 |https://www.aliexpress.com/item/1005012063525821.html|
+| Extension Cable | 20 m communication/data cable | 1 | $78.70 | $78.70 | https://www.aliexpress.com/item/1005012780715462.htm|
+| Memory Card | 32 GB microSD card | 1 | $10.43  | $10.43  |https://www.aliexpress.com/item/1005007498167692.html|
+| Light/Infrared Color Spectrometer | Light measurement and spectral analysis | 1 | $8.01 | $8.01 |https://www.aliexpress.com/item/1005013219123992.htm|
 | **Subtotal** | | | | **$178.15** |
 
 ### 3. Miscellaneous and Logistics
